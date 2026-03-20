@@ -13,7 +13,7 @@
 Frontend Developer with 3+ years of experience building scalable and responsive web applications.
 Currently expanding into full-stack development using Node.js, Express, and MongoDB.
 
-🌍 Open to remote and international opportunities (Germany / EU)
+🌍 Open to opportunities in Germany / EU, India (Chennai, Bengaluru, Hyderabad), and remote roles
 
 ---
 
@@ -36,6 +36,7 @@ Git, GitHub, REST APIs
 ## 🚀 Projects
 
 ### 🔹 Food Ordering Application (React.js)
+🔗 [GitHub Repo](https://github.com/Amrin312/food_app)
 
 * Built a responsive food ordering UI
 * Implemented reusable components and state management
@@ -43,18 +44,25 @@ Git, GitHub, REST APIs
 
 ### 🔹 DevTinder – Fullstack App (React + Node + MongoDB)
 
-* Fullstack application with authentication system
-* REST API integration using Express.js
-* MongoDB database for storing user data
-* Built scalable frontend using React.js
+🔗 **Live Demo:** [View Application](https://devcon.work/)
+🔗 **Frontend Repo:** [dev_tinder_web](https://github.com/Amrin312/dev_tinder_web)  
+🔗 **Backend Repo:** [devTinder](https://github.com/Amrin312/devTinder)  
 
+- Fullstack application with authentication system  
+- REST API integration using Express.js  
+- MongoDB database for storing user data  
+- Built scalable frontend using React.js  
+- Implemented JWT-based authentication and protected routes  
+- Deployed using AWS (backend) and Cloudflare (CDN & DNS)
+- 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amrin312&show_icons=true
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amrin312&show_icons=true&theme=github_dark)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrin312\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrin312&layout=compact&theme=github_dark)
+
 ---
 
 ## 🔭 Currently Working On
@@ -67,6 +75,6 @@ Git, GitHub, REST APIs
 
 ## 📫 Connect with Me
 
-* LinkedIn: https://www.linkedin.com/in/amrin312/
+- 🔗 LinkedIn: [View Profile](https://www.linkedin.com/in/amrin312/)
 * Email: [amrinfathimaaf321@gmail.com](mailto:amrinfathimaaf321@gmail.com)
 
