@@ -54,7 +54,6 @@ Git, GitHub, REST APIs
 - Built scalable frontend using React.js  
 - Implemented JWT-based authentication and protected routes  
 - Deployed using AWS (backend) and Cloudflare (CDN & DNS)
-- 
 ---
 
 ## 📊 GitHub Stats
