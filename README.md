@@ -1,5 +1,5 @@
-## Hi there 👋
-
+Hi 👋, I'm Amrin Fathima
+Frontend Developer | React.js | TypeScript
 <!--
 **Amrin312/Amrin312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
