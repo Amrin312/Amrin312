@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Amrin Fathima</h1>
-<h3 align="center">Frontend Developer | React.js | TypeScript | 3+ Years Experience</h3>
+<h3 align="center">Frontend Developer | React.js | TypeScript | 2.6 Years Experience</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=React+Developer;Frontend+Engineer;Open+to+Work+Worldwide&center=true&width=500&height=50">
@@ -10,7 +10,7 @@
 
 ## 💻 About Me
 
-Frontend Developer with 3+ years of experience building scalable and responsive web applications.
+Frontend Developer with 2.6 years of experience building scalable and responsive web applications.
 Currently expanding into full-stack development using Node.js, Express, and MongoDB.
 
 🌍 Open to opportunities in Germany / EU, India (Chennai, Bengaluru, Hyderabad), and remote roles
