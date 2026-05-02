@@ -18,7 +18,7 @@ Fullstack MERN Developer with 2.7 years of experience building scalable, perform
 - Focused on writing **clean, maintainable, and production-ready code**
 
 🌍 Open to opportunities in:
-- Germany / EU
+- UAE, Germany, EU
 - India (Chennai, Bengaluru, Hyderabad)
 - Remote (Worldwide)
 
@@ -40,31 +40,6 @@ Git, GitHub, REST APIs
 
 ---
 
-## 🚀 Projects
-
-### 🔹 DevTinder – Fullstack Application (MERN)
-
-🔗 **Live Demo:** https://devcon.work/  
-🔗 **Frontend Repo:** https://github.com/Amrin312/dev_tinder_web  
-🔗 **Backend Repo:** https://github.com/Amrin312/devTinder  
-
-- Developed a fullstack application using **React, Node.js, Express, MongoDB**
-- Implemented **JWT-based authentication & protected routes**
-- Designed scalable **REST APIs**
-- Managed user data with MongoDB
-- Integrated **real-time chat functionality using Socket.IO**
-- Built modular and scalable frontend architecture
-- Deployed backend on AWS and optimized delivery using Cloudflare
-  
-### 🔹 Food Ordering Application (React.js)
-🔗 [GitHub Repo](https://github.com/Amrin312/food_app)
-
-* Built a responsive food ordering UI
-* Implemented reusable components and state management
-* Integrated API-based dynamic data
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amrin312&show_icons=true&theme=github_dark)
@@ -82,6 +57,7 @@ Git, GitHub, REST APIs
 
 ## 📫 Connect with Me
 
+- 🔗 Portfolio: [View](https://amrinfathima.vercel.app/)
 - 🔗 LinkedIn: [View Profile](https://www.linkedin.com/in/amrin312/)
 * 📫 Email: [amrinfathimaaf321@gmail.com](mailto:amrinfathimaaf321@gmail.com)
 
