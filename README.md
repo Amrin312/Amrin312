@@ -11,7 +11,7 @@
 
 ## 💻 About Me
 
-Fullstack MERN Developer with 2.7 years of experience building scalable, performant, and user-centric web applications.
+Fullstack MERN Developer with 3.5 years of experience building scalable, performant, and user-centric web applications.
 
 - Strong in **end-to-end development** (frontend → backend → database → deployment)
 - Experience designing **REST APIs, authentication systems, and scalable architectures**
