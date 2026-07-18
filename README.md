@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Amrin Fathima</h1>
-<h3 align="center">Fullstack MERN Developer | React.js | Node.js | 2.7 Years Experience</h3>
+<h3 align="center">Fullstack MERN Developer | React.js | Node.js | 3.5 Years Experience</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+MERN+Developer;React+%2B+Node+Engineer;Building+Scalable+Web+Apps;Open+to+Global+Opportunities&center=true&width=500&height=50">
