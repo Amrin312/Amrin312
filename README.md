@@ -60,5 +60,3 @@ Git, GitHub, REST APIs
 - 🔗 Portfolio: [View](https://amrinfathima.vercel.app/)
 - 🔗 LinkedIn: [View Profile](https://www.linkedin.com/in/amrin312/)
 * 📫 Email: [amrinfathimaaf321@gmail.com](mailto:amrinfathimaaf321@gmail.com)
-
-![](https://komarev.com/ghpvc/?username=Amrin312&color=blue&style=flat-square)
